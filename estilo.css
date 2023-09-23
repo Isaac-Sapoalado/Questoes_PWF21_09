@@ -1,0 +1,18 @@
+.ol1{
+    list-style-type: upper-roman;
+}
+.ul1{
+    list-style-image: url("imagens/3009118_resized.png");
+}
+.ul2{
+    list-style-image: url("imagens/pista_resized.png");
+}
+.ul3{
+    list-style-image: url("imagens/lombada_resized.webp");
+}
+.ul4{
+    list-style-image: url("imagens/pare_resized.png");
+}
+.ul5{
+    list-style-image: url("imagens/pedestre_resized.png");
+}
